@@ -3,7 +3,7 @@
 
 # Es momento de comenzar a crear 🛠
 
-En estos momentos, la comunidad esta creando software increíble y hay excelentes oportunidades para participar y mejorar tu aprendizaje. Si estas buscando involucrarte tienes que tener claro los siguiente.
+En estos momentos, la comunidad esta creando software increíble y hay excelentes oportunidades para participar y mejorar tu aprendizaje. Si estas buscando involucrarte tienes que saber lo siguiente.
 
 * Coming Soon (webpage in construction)
 * Coming Soon (webpage in construction)
