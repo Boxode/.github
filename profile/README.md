@@ -3,15 +3,9 @@
 
 # Es momento de comenzar a crear 🛠
 
+En estos momentos, la comunidad esta creando software increíble y hay excelentes oportunidades para participar y mejorar tu aprendizaje. Si estas buscando involucrarte tienes que tener claro los siguiente.
 
+* Coming Soon (webpage in construction)
+* Coming Soon (webpage in construction)
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Visita (webpage in construction) para más información.
