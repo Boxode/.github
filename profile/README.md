@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/FabianMartinezCorp/.github/main/FMC%20BANNER%201.png" alt="FMC" />
+<img src="https://raw.githubusercontent.com/VisualTradeCodex/.github/main/images/VTC%20BANNER.png" alt="FMC" />
 <p align="center" style=" font-weight: 400; ">El código abierto de nuestros productos y servicios permiten brindar diferentes opciones digitales a elegir, así como de brindar una buena comunidad a nuestros clientes.</p>
 
 # Es momento de comenzar a crear 🛠
