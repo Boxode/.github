@@ -1,6 +1,6 @@
 # Visual Tradex Open Source - Code of Conduct (EN)
 
-This project has adopted the open source code of conduct of Visual TradeCodex
+This project has adopted the open source code of conduct of Visual Tradex
 
 ----
 
