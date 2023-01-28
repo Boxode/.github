@@ -10,3 +10,7 @@ En estos momentos, la comunidad esta creando software increíble y hay excelente
 * [Código de Conducta](https://github.com/VisualTradeCodex/.github/blob/main/CODE_OF_CONDUCT.md)
 
 Visita (webpage in construction) para más información.
+
+----
+
+Esta empresa esta creada y asociada a <a href="https://www.github.com/FabianHMzz">@FabianHMzz</a>. Todos los enlaces y correos electrónicos asociados a esta página son parte del registro del dominio <code>fabianhmz.dev</code> y todas sus variantes.
