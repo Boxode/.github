@@ -38,7 +38,7 @@ Si experimentas o es testigo de un comportamiento inaceptable, o si tiene alguna
 
 Después de presentar su informe, una representante se comunicará con usted personalmente. Si la persona que lo esta acosando forma parte del equipo, se abstendrá de manejar su incidente. Luego, un representante avisará el incidente, hará un seguimiento con cualquier pregunta adicional y tomará una decisión sobre cómo responder. Respetaremos las solicitued de confidencialidad con el fin de proteger a las víctimas de abuso.
 
-Se espera que cualquier persona a la que s ele pida que detenga un comportamiento inaceptable lo haa de inmediato. Si un individuo se involucra en un comportamiento inaceptable, el representante puede tomar cualquier acción que considere apropiada, incluyendo una prohibición permanente de nuestra comunidad sin previo aviso.
+Se espera que cualquier persona a la que se le pida que detenga un comportamiento inaceptable lo haa de inmediato. Si un individuo se involucra en un comportamiento inaceptable, el representan te puede tomar cualquier acción que considere apropiada, incluyendo una prohibición permanente de nuestra comunidad sin previo aviso.
 
 ## Gracias
 
