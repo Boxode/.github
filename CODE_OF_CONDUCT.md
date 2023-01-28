@@ -1,10 +1,10 @@
-# Visual TradeCodex Open Source - Código de Conducta (ES)
+# Visual Tradex Open Source - Código de Conducta (ES)
 
 Este proyecto a adoptado el código de conducta de código abierto de Visual TradeCodex
 
 ----
 
-En este código de conducta describe nuestras expectativas para los participantes dentro de la comunidad de <a href="https://www.github.com/VisualTradeCodex">@VTC</a>, así como los pasos para denunciar comportamientos inaceptables. Estamos comprometidos en crear una comunidad acogedora e inspiradora para todos. Cualquiera que viole el código de conducta puede ser expulsado de la comunidad.
+En este código de conducta describe nuestras expectativas para los participantes dentro de la comunidad de <a href="https://www.github.com/VisualTradex">@VTX</a>, así como los pasos para denunciar comportamientos inaceptables. Estamos comprometidos en crear una comunidad acogedora e inspiradora para todos. Cualquiera que viole el código de conducta puede ser expulsado de la comunidad.
 
 Nuestra comunidad de código abierto se esfuerza por:
 
@@ -30,7 +30,7 @@ Si bien esta lista puede ser exhausativa, respetamos explicitamente la diversida
 
 ## Informar sobre algún problema
 
-Si experimentas o es testigo de un comportamiento inaceptable, o si tiene alguna otra inquietud, comuníquese con nosotros a tráves de <a href="mailto:opensource.VTC@fabianhmz.dev">opensource.VTC@fabianhmz.dev</a> . Todos los informes enviados se manejarán con discreción. En su informe por favor incluya:
+Si experimentas o es testigo de un comportamiento inaceptable, o si tiene alguna otra inquietud, comuníquese con nosotros a tráves de <a href="mailto:opensource.VTX@fabianhmz.dev">opensource.VTX@fabianhmz.dev</a> . Todos los informes enviados se manejarán con discreción. En su informe por favor incluya:
 
 * Información de contacto.
 * Nombres (reales, apodos, seudónimos) de las personas involucradas. Si hay testigos adicionales, inclúyalos también. El relato de lo que ocurrio y si cree que el incidente continúa. si hay un registro disponible públicamente (ejemplo: correos electrónicos, usuarios, etc), incluya un enlace.
