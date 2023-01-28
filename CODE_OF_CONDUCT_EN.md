@@ -1,10 +1,10 @@
-# Visual TradeCodex Open Source - Code of Conduct (EN)
+# Visual Tradex Open Source - Code of Conduct (EN)
 
 This project has adopted the open source code of conduct of Visual TradeCodex
 
 ----
 
-This code of conduct outlines our expectations for participants within the <a href="https://www.github.com/VisualTradeCodex">@VTC</a> community, as well as the steps for reporting unacceptable behavior. We are committed to creating a welcoming and inspiring community for all. Anyone who violates the code of conduct may be banned from the community.
+This code of conduct outlines our expectations for participants within the <a href="https://www.github.com/VisualTradex">@VTC</a> community, as well as the steps for reporting unacceptable behavior. We are committed to creating a welcoming and inspiring community for all. Anyone who violates the code of conduct may be banned from the community.
 
 Our open source community strives to:
 
@@ -30,7 +30,7 @@ While this list may be exhaustive, we explicitly respect diversity in age, gende
 
 ## Report a problem
 
-If you experience or witness unacceptable behavior, or have any other concerns, please contact us at <a href="mailto:opensource.VTC@fabianhmz.dev">opensource.VTC@fabianhmz.dev</a> . All submitted reports will be handled with discretion. In your report please include:
+If you experience or witness unacceptable behavior, or have any other concerns, please contact us at <a href="mailto:opensource.VTX@fabianhmz.dev">opensource.VTX@fabianhmz.dev</a> . All submitted reports will be handled with discretion. In your report please include:
 
 * Contact information.
 * Names (real, nicknames, pseudonyms) of the people involved. If there are additional witnesses, include them as well. The account of what happened and whether you believe the incident is continuing. if a record is publicly available (example: emails, users, etc), include a link.
