@@ -7,5 +7,6 @@ En estos momentos, la comunidad esta creando software increíble y hay excelente
 
 * Coming Soon (webpage in construction)
 * Coming Soon (webpage in construction)
+* [Código de Conducta](https://github.com/VisualTradeCodex/.github/blob/main/CODE_OF_CONDUCT.md)
 
 Visita (webpage in construction) para más información.
