@@ -2,6 +2,8 @@
 
 This project has adopted the open source code of conduct of Visual Tradex
 
+----
+
 This code of conduct outlines our expectations for participants within the <a href="https://www.github.com/VisualTradex">@VTX</a> community, as well as the steps for reporting unacceptable behavior. We are committed to creating a welcoming and inspiring community for all. Anyone who violates the code of conduct may be banned from the community.
 
 
