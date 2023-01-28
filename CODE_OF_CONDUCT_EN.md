@@ -42,4 +42,4 @@ Anyone asked to stop unacceptable behavior is expected to do so immediately. If 
 
 ## Thanks
 
-This code of conduct is based on the <a href="https://github.com/todogroup/opencodeofconduct">Open Code of Conduct</a> of <a href="https://github.com/todogroup" >ALL Group</a>
+This code of conduct is based on the <a href="https://github.com/todogroup/opencodeofconduct">Open Code of Conduct</a> of <a href="https://github.com/todogroup" >TODO Group</a>
