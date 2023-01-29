@@ -13,4 +13,4 @@ Visita (webpage in construction) para más información.
 
 # Informacion adicional 💭
 
-Esta empresa esta creada y asociada a <a href="https://www.github.com/FabianHMzz">@FabianHMzz</a>. Todos los enlaces y correos electrónicos asociados a esta página son parte de los registros de los dominios <code>fabianhmz.dev</code> y <code>visual-tradex.com</code> y todas sus variantes.
+Esta empresa esta creada y asociada a <a href="https://www.github.com/FabianHMzz">@FabianHMzz</a>. Todos los enlaces y correos electrónicos asociados a esta página son parte de los registros de los dominios <a href="https://www.fabianhmz.dev"><code>fabianhmz.dev</code></a> y <a href="https://www.visual-tradex.com"><code>visual-tradex.com</code></a> y todas sus variantes.
