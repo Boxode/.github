@@ -21,4 +21,4 @@ A continuación se muestra una pequeña lista de como planeamos distrubuir los f
 ## Elegibilidad
 Los empleados de **Visual Tradex Corporation** no son elegibles para recibir fondos de **GitHub Sponsors** y de alguna otra plataforma de recaudación de fondos. Estos fondos existen únicamente para servir a la comunidad de **Visual Tradex** en general.
 
-Si desea apoyar a los creadores de este proyecto, sus perfiles personales estarán disponibles en el apartado de <a href="https://github.com/VisualTradex/.github/blob/main/FOUNDERS.md"><code>FOUNDERS.md</code></a> y estarán abiertos a recibir su apoyo mediante la opción de <code>GitHub Sponsors</code>.
+Si desea apoyar a los creadores de este proyecto, sus perfiles personales estarán disponibles en el apartado de <a href="https://github.com/VisualTradex/.github/blob/main/FOUNDERS.md"><code>FOUNDERS.md</code></a> y estarán abiertos a recibir su apoyo mediante la opción de su <code>GitHub Sponsors</code> personal.
