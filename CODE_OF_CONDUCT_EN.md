@@ -1,20 +1,17 @@
 # Visual Tradex Open Source - Code of Conduct (EN)
 
-This project has adopted the open source code of conduct of Visual TradeCodex
+This project has adopted the open source code of conduct of Visual Tradex
 
 ----
 
-<<<<<<< HEAD
-This code of conduct outlines our expectations for participants within the <a href="https://www.github.com/VisualTradex">@VTC</a> community, as well as the steps for reporting unacceptable behavior. We are committed to creating a welcoming and inspiring community for all. Anyone who violates the code of conduct may be banned from the community.
-=======
 This code of conduct outlines our expectations for participants within the <a href="https://www.github.com/VisualTradex">@VTX</a> community, as well as the steps for reporting unacceptable behavior. We are committed to creating a welcoming and inspiring community for all. Anyone who violates the code of conduct may be banned from the community.
->>>>>>> 7772b702f021256fb59817e823fbc980a6e77662
+
 
 Our open source community strives to:
 
 * **Be kind and patient:** We know that we all have different levels of knowledge in the field of programming, and if possible we can improve together.
 * **Be Welcoming:** We are constantly striving to be a welcoming and supportive community for people of different backgrounds and identities. These include any member's race, ethnicity, culture, national origin, color, social and economic class, educational level, sex, sexual orientation, age, beliefs, etc.
-* **Be considerate**: Remember that your work may be used by other people and you in turn will depend on the work of others. Any decision you make about this may affect users, colleagues and even you.
+* **Be considerate:** Remember that your work may be used by other people and you in turn will depend on the work of others. Any decision you make about this may affect users, colleagues and even you.
 * **Be Respectful:** Not everyone will agree all the time, but disagreement is no excuse for bad behavior and bad manners. We can all experience frustration from time to time, but we can't let that frustration turn into a personal attack.
 * **Be careful with the words you choose:** We are a community of professionals and therefore we must conduct ourselves as professionals. Be kind to others. Do not insult or belittle other beginners. Harassment and other exclusionary behaviors are not acceptable. This includes, but is not limited to:
      * Threats or explicit language.
@@ -34,7 +31,7 @@ While this list may be exhaustive, we explicitly respect diversity in age, gende
 
 ## Report a problem
 
-If you experience or witness unacceptable behavior, or have any other concerns, please contact us at <a href="mailto:opensource.VTX@fabianhmz.dev">opensource.VTX@fabianhmz.dev</a> . All submitted reports will be handled with discretion. In your report please include:
+If you experience or witness unacceptable behavior, or have any other concerns, please contact us at <a href="mailto:opensource@visual-tradex.com">opensource.VTX@fabianhmz.dev</a> . All submitted reports will be handled with discretion. In your report please include:
 
 * Contact information.
 * Names (real, nicknames, pseudonyms) of the people involved. If there are additional witnesses, include them as well. The account of what happened and whether you believe the incident is continuing. if a record is publicly available (example: emails, users, etc), include a link.

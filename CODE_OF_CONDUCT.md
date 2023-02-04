@@ -10,7 +10,7 @@ Nuestra comunidad de código abierto se esfuerza por:
 
 * **Ser amable y paciente:** Sabemos que todos tenemos difentes niveles de conocimiento en el ámbito de la programación, y si es posible podremos mejorar juntos.
 * **Ser acogedor:** Estamos en constante esfuerzo para ser una comunidad que agoge y apoya a personas de diferentes origenes e identidades. Entre estos incluye la raza de cualquier miembro, etnia, cultura, origen de nacionalidad, color, clase social y económica , nivel educativo, sexo, orientación sexual, edad, creencias, etc.
-* **Ser considerado**: Recuerde que su trabajo puede ser utilizado por otras personas y usted a su vez dependerá del trabajo de otros. Cualquier decisión que tome acerca de esto puede afectar a los usuarios, colegas e inclusive a usted.
+* **Ser considerado:** Recuerde que su trabajo puede ser utilizado por otras personas y usted a su vez dependerá del trabajo de otros. Cualquier decisión que tome acerca de esto puede afectar a los usuarios, colegas e inclusive a usted.
 * **Ser respetuoso:** No todos estaremos de acuerdo todo el tiempo, pero el desacuerdo no es excusa para el mal comportamiento y los malos modales. Todos podemos experimentar alguna frustación de vez en cuando, pero no podemos permitir que sa frustación se convierta en ataque personal.
 * **Ser cuidadoso con las palabras que elija:** Somos una comunidad de profesionales y por ende debemos comportarnos como profesionales. Ser amables con otros. No insultes o menosprecies a otros principiantes. El acoso y otros comportamientos excluyentes no son aceptables. Esto incluye, pero no se limita a:
     * Amenazas o lenguaje explicito.
@@ -30,7 +30,7 @@ Si bien esta lista puede ser exhausativa, respetamos explicitamente la diversida
 
 ## Informar sobre algún problema
 
-Si experimentas o es testigo de un comportamiento inaceptable, o si tiene alguna otra inquietud, comuníquese con nosotros a tráves de <a href="mailto:opensource.VTX@fabianhmz.dev">opensource.VTX@fabianhmz.dev</a> . Todos los informes enviados se manejarán con discreción. En su informe por favor incluya:
+Si experimentas o es testigo de un comportamiento inaceptable, o si tiene alguna otra inquietud, comuníquese con nosotros a tráves de <a href="mailto:opensource@visual-tradex.com">opensource.VTX@fabianhmz.dev</a> . Todos los informes enviados se manejarán con discreción. En su informe por favor incluya:
 
 * Información de contacto.
 * Nombres (reales, apodos, seudónimos) de las personas involucradas. Si hay testigos adicionales, inclúyalos también. El relato de lo que ocurrio y si cree que el incidente continúa. si hay un registro disponible públicamente (ejemplo: correos electrónicos, usuarios, etc), incluya un enlace.
