@@ -31,7 +31,7 @@ While this list may be exhaustive, we explicitly respect diversity in age, gende
 
 ## Report a problem
 
-If you experience or witness unacceptable behavior, or have any other concerns, please contact us at <a href="mailto:opensource@visual-tradex.com">opensource.VTX@fabianhmz.dev</a> . All submitted reports will be handled with discretion. In your report please include:
+If you experience or witness unacceptable behavior, or have any other concerns, please contact us at <a href="mailto:opensource@visual-tradex.com">opensource@visual-tradex.com</a> . All submitted reports will be handled with discretion. In your report please include:
 
 * Contact information.
 * Names (real, nicknames, pseudonyms) of the people involved. If there are additional witnesses, include them as well. The account of what happened and whether you believe the incident is continuing. if a record is publicly available (example: emails, users, etc), include a link.
