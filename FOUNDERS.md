@@ -8,6 +8,4 @@
 
 <code>Supervisor:</code><a href="https://github.com/Ariagx"><code>Christian Herrera</code></a>
 
-<code>Supervisor:</code><a href="https://github.com/jruwur"><code>José Inés Rodríguez</code></a>
-
 <code>Supervisor:</code><a href="https://github.com/Ha1s3"><code>Juan Pablo Delgadillo</code></a>
