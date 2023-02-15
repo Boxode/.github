@@ -6,10 +6,10 @@
 En estos momentos, la comunidad esta creando software increíble y hay excelentes oportunidades para participar y mejorar tu aprendizaje. Si estas buscando involucrarte tienes que saber lo siguiente.
 
 * Coming Soon (webpage in construction)
-* Coming Soon (webpage in construction)
+* [Contribuciones (ES)](https://visual-tradex.com/opensource/contributing)
 * [Código de Conducta (ES)](https://github.com/VisualTradex/.github/blob/main/CODE_OF_CONDUCT.md) | [Code of Conduct (EN)](https://github.com/VisualTradex/.github/blob/main/CODE_OF_CONDUCT_EN.md)
 
-Visita (webpage in construction) para más información.
+Visita [Visual Tradex - Open Soruce](https://visual-tradex.com/opensource) para más información.
 
 # Informacion adicional 💭
 
