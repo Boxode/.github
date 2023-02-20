@@ -13,4 +13,4 @@ Visita [Visual Tradex - Open Soruce](https://visual-tradex.com/opensource) para 
 
 # Informacion adicional 💭
 
-Todos los proyectos de Visual Tradex adoptan el [Codigo de conducta de código abierto de Visual Tradex](https://visual-tradex.com/opensource/codeofconduct). Para obtener más información, consulte las [Preguntas frecuentes sobre el código de conducta](https://visual-tradex.com/opensource/codeofconduct/faq)
+Todos ls proyectos de Visual Tradex adoptan el [Codigo de conducta de código abierto de Visual Tradex](https://visual-tradex.com/opensource/codeofconduct). Para obtener más información, consulte las [Preguntas frecuentes sobre el código de conducta](https://visual-tradex.com/opensource/codeofconduct/faq)
