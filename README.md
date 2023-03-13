@@ -1,3 +1,3 @@
 # .github
 
-**Archivos predeterminados para la compañia de Visual Tradex.**
+**Archivos predeterminados para la compañia de Boxode Corporation.**
