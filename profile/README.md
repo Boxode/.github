@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/VisualTradex/.github/main/images/VTX%20BANNER.png" alt="Boxode" />
+<img src="https://raw.githubusercontent.com/Boxode/.github/main/images/Boxode%20Banner.png" alt="Boxode" />
 <p align="center" style=" font-weight: 400; ">El código abierto de nuestros productos y servicios permiten brindar diferentes opciones digitales a elegir, así como de brindar una buena comunidad a nuestros clientes.</p>
 
 # Para de hablar y comienza a innovar 🛠
@@ -9,7 +9,7 @@ En estos momentos, la comunidad esta creando software increíble y hay excelente
 * [Contribuciones (ES)](https://visual-tradex.com/opensource/contributing) | [Contributing (EN)]()
 * [Código de Conducta (ES)](https://github.com/VisualTradex/.github/blob/main/CODE_OF_CONDUCT.md) | [Code of Conduct (EN)](https://github.com/VisualTradex/.github/blob/main/CODE_OF_CONDUCT_EN.md)
 
-Visita [Visual Tradex - Open Soruce](https://visual-tradex.com/opensource) para más información.
+Visita [Boxode - Open Soruce](https://boxode.org/opensource) para más información.
 
 # Informacion adicional 💭
 
