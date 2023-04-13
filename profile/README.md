@@ -7,7 +7,7 @@ En estos momentos, la comunidad esta creando software increíble y hay excelente
 
 * [Featured Projects](https://boxode.org/oss/featured-projects)
 * [Contributing (EN)](https://boxode.org/oss/contributing) | [Contribuciones (ES)]()
-* [Code of Conduct (EN)](https://github.com/VisualTradex/.github/blob/main/CODE_OF_CONDUCT_EN.md) | [Código de Conducta (ES)](https://github.com/VisualTradex/.github/blob/main/CODE_OF_CONDUCT.md)
+* [Code of Conduct (EN)](https://github.com/Boxode/.github/blob/main/CODE_OF_CONDUCT_EN.md) | [Código de Conducta (ES)](https://github.com/Boxode/.github/blob/main/CODE_OF_CONDUCT.md)
 
 Visit [Boxode - Open Source](https://boxode.org/oss) for more information.
 
