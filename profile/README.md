@@ -5,12 +5,12 @@
 
 En estos momentos, la comunidad esta creando software increíble y hay excelentes oportunidades para participar y mejorar tu aprendizaje. Si estas buscando involucrarte tienes que saber lo siguiente.
 
-* [Proyectos Destacados]()
+* [Featured Projects]()
 * [Contribuciones (ES)](https://boxode.org/oss/contributing) | [Contributing (EN)]()
 * [Código de Conducta (ES)](https://github.com/VisualTradex/.github/blob/main/CODE_OF_CONDUCT.md) | [Code of Conduct (EN)](https://github.com/VisualTradex/.github/blob/main/CODE_OF_CONDUCT_EN.md)
 
-Visita [Boxode - Open Soruce](https://boxode.org/oss) para más información.
+Visit [Boxode - Open Soruce](https://boxode.org/oss) for more information.
 
-# Informacion adicional 💭
+# Aditional Information 💭
 
-Todos los proyectos de Boxode adoptan el [Codigo de conducta de código abierto de Boxode](https://boxode.org/oss/coc). Para obtener más información, consulte las [Preguntas frecuentes sobre el código de conducta](https://boxode.org/oss/coc/faq)
+All Boxode projects adopt the [Boxode open source - code of conduct](https://boxode.org/oss/coc). For more information, consult the [FAQ about the code of conduct](https://boxode.org/oss/coc/faq)
