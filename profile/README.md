@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/Boxode/.github/main/images/Boxode%20Banner.png" alt="Boxode" />
-<p align="center" style=" font-weight: 400; ">El código abierto de nuestros productos y servicios permiten brindar diferentes opciones digitales a elegir, así como de brindar una buena comunidad a nuestros clientes.</p>
+<p align="center" style=" font-weight: 400; ">The open source of our products and services allow us to offer digital options to choose from, as well as provide a good innovative community.</p>
 
 # Stop talking and start innovating 🛠
 
