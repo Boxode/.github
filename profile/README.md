@@ -9,7 +9,7 @@ En estos momentos, la comunidad esta creando software increíble y hay excelente
 * [Contribuciones (ES)](https://boxode.org/oss/contributing) | [Contributing (EN)]()
 * [Código de Conducta (ES)](https://github.com/VisualTradex/.github/blob/main/CODE_OF_CONDUCT.md) | [Code of Conduct (EN)](https://github.com/VisualTradex/.github/blob/main/CODE_OF_CONDUCT_EN.md)
 
-Visit [Boxode - Open Soruce](https://boxode.org/oss) for more information.
+Visit [Boxode - Open Source](https://boxode.org/oss) for more information.
 
 # Aditional Information 💭
 
