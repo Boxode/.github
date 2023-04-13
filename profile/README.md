@@ -3,7 +3,7 @@
 
 # Stop talking and start innovating 🛠
 
-Right now the community is creating amazing software and there are great opportunities to get involved and enhance your learning. If yoy are looking to get involved you have to know the following:
+Right now the community is creating amazing software and there are great opportunities to get involved and enhance your learning. If you are looking to get involved you have to know the following:
 
 * [Featured Projects](https://boxode.org/oss/featured-projects)
 * [Contributing (EN)](https://boxode.org/oss/contributing) | [Contribuciones (ES)]()
