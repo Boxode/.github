@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/Boxode/.github/main/images/Boxode%20Banner.png" alt="Boxode" />
 <p align="center" style=" font-weight: 400; ">The open source of our products and services allow us to offer digital options to choose from, as well as provide a good innovative community.</p>
 
-# Stop talking and start innovating 🛠
+# A better way to build software 🛠
 
 Right now the community is creating amazing software and there are great opportunities to get involved and enhance your learning. If you are looking to get involved you have to know the following:
 
